@@ -1,0 +1,10 @@
+RA0 - sonda		sonda_out
+RA1 - operační zeil.	op_out
+RA4 - Led power ON	led_P
+RA5 - Led weld		led_W
+
+RB2 - IN 1		in_1
+RB3 - IN 2		in_2
+RB4 - OUT 1		out_1
+RB5 - OUT 2		out_2
+

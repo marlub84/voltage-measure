@@ -1,0 +1,19 @@
+G04 start of page 9 for group -4078 idx -4078 *
+G04 Title: (unknown), bottomsilk *
+G04 Creator: pcb 20140316 *
+G04 CreationDate: Ne 28. leden 2018, 18:47:39 GMT UTC *
+G04 For: mario *
+G04 Format: Gerber/RS-274X *
+G04 PCB-Dimensions (mil): 3976.38 2992.13 *
+G04 PCB-Coordinate-Origin: lower left *
+%MOIN*%
+%FSLAX25Y25*%
+%LNBOTTOMSILK*%
+%ADD75C,0.0100*%
+G54D75*X395000Y4213D02*X375000D01*
+X395000D02*Y24213D01*
+Y4213D02*X0D01*
+Y299213D01*
+X395000D01*
+Y4213D01*
+M02*
